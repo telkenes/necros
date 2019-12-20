@@ -3,11 +3,10 @@
 
 ### Preview
 * Dark
-![Dark](https://what-the-fuck.is-inside.me/xKSmBu6Y.png)
+![Dark](https://raw.githubusercontent.com/telkenes/necros/master/dark.png)
 * Light
-![Light](https://what-the-fuck.is-inside.me/0tsbPrqP.png)
+![Light](https://raw.githubusercontent.com/telkenes/necros/master/light.png)
 
 ### Other links
 * [Contact Telk#4038 on discord](https://discordapp.com/channels/@me)
 * [Patreon](https://www.patreon.com/telk)
-
