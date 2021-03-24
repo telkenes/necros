@@ -1,37 +1,63 @@
 {
-  "name": "necros",
-  "displayName": "Necros",
-  "description": "A vsc theme made by Telk focusing on readable syntax",
-  "version": "1.0.0",
-  "publisher": "Telk",
-  "engines": {
-    "vscode": "^1.41.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Necros Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/necros-dark.json"
-      },
-      {
-        "label": "Necros Light",
-        "uiTheme": "vs-dark",
-        "path": "./themes/necros-light.json"
-      }
-    ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/telkenes/necros.git"
-  },
-  "author": "Telk",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/telkenes/necros/issues"
-  },
-  "homepage": "https://github.com/telkenes/necros#readme"
+	"name": "necros",
+	"displayName": "Necros",
+	"description": "A vsc theme made by Telk focusing on readable syntax",
+	"icon": "images/logo.png",
+	"version": "2.0.0",
+	"publisher": "Telk",
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Necros Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/necros-dark.json"
+			},
+			{
+				"label": "Necros Purple",
+				"uiTheme": "vs-dark",
+				"path": "./themes/necros-purple.json"
+			},
+			{
+				"label": "Necros Gray",
+				"uiTheme": "vs-dark",
+				"path": "./themes/necros-gray.json"
+			},
+			{
+				"label": "Necros Gray 2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/necros-gray-2.json"
+			},
+			{
+				"label": "Necros Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/necros-black.json"
+			},
+			{
+				"label": "Necros Light",
+				"uiTheme": "vs",
+				"path": "./themes/necros-light.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/telkenes/necros.git"
+	},
+	"author": "Telk",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/telkenes/necros/issues"
+	},
+	"homepage": "https://github.com/telkenes/necros#readme",
+	"__metadata": {
+		"id": "b16e5eb6-ee4d-4938-ad91-2e95e61a6531",
+		"publisherId": "7975ce82-9368-4c76-815e-2f86d4fe216b",
+		"publisherDisplayName": "Telk"
+	}
 }
