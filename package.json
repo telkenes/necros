@@ -3,7 +3,7 @@
 	"displayName": "Necros",
 	"description": "A vsc theme made by Telk focusing on readable syntax",
 	"icon": "images/logo.png",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"publisher": "Telk",
 	"engines": {
 		"vscode": "^1.41.0"
@@ -29,11 +29,6 @@
 				"path": "./themes/necros-gray.json"
 			},
 			{
-				"label": "Necros Gray 2",
-				"uiTheme": "vs-dark",
-				"path": "./themes/necros-gray-2.json"
-			},
-			{
 				"label": "Necros Black",
 				"uiTheme": "vs-dark",
 				"path": "./themes/necros-black.json"
@@ -56,7 +51,7 @@
 	},
 	"homepage": "https://github.com/telkenes/necros#readme",
 	"__metadata": {
-		"id": "b16e5eb6-ee4d-4938-ad91-2e95e61a6531",
+		"id": "b16e5eb6-ee4d-4938-ad91-2e95e61a6532",
 		"publisherId": "7975ce82-9368-4c76-815e-2f86d4fe216b",
 		"publisherDisplayName": "Telk"
 	}
